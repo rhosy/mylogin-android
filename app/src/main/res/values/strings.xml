@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Login</string>
+    <string name="label_text_login">Login to your account</string>
+    <string name="hint_login_email">Email</string>
+    <string name="hint_login_password">Password</string>
+    <string name="text_login_btn">Login</string>
+    <string name="text_label_new_user">New User? <b><font color="#EE1515">Register Now!</font></b></string>
+</resources>
